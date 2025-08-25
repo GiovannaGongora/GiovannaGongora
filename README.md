@@ -2,8 +2,6 @@
 
 **Estudante de Análise e Desenvolvimentos de Sistemas - FATECSP**    
 
-✨ Pronomes: Ela/Dela (She/Her)  
-🌱 Atualmente aprendendo: **Java**  
 😊 Idade e Cidade: 25, São Paulo-SP  
 🖥️ Apaixonada por tecnologia
 
